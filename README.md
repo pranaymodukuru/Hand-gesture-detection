@@ -2,6 +2,8 @@
 A Deep Learning Project for hand gesture recognition.
 
 
+Refer 'HandGestureRecognitionCNN.ipynb' for details on data, training and testing.
+
 The data set is generated using the python script 'get_gestures.py'. It uses Opencv to capture gesture images from laptop webcam.
 
 Usage:
