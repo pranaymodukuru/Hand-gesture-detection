@@ -16,3 +16,5 @@ Usage:
 * number : number of images to capture
 * test_size : percentage of images to label as test images (training images are labelled as 'TR' and testing images as 'TE', this extension is added to the file name)
 
+## References
+1. Sourav Johar, [Create a Rock Paper Scissors AI | Keras and OpenCV | Tutorial | Python](https://www.youtube.com/watch?v=0uSA3xyXlwM&feature=youtu.be)
